@@ -235,3 +235,7 @@ Paste this into your agent's instructions:
 - **Tables:** `picks`, `agents`, `activity_log`, `schema_migrations`
 - **Migrations:** Auto-run on first connection via `backend/src/migrations/`
 - **Reset:** `bun run clean` removes all DB files
+
+## Barge
+
+Try [Barge](https://getbarge.io/?utm_source=github&utm_medium=referral&utm_campaign=barge&utm_content=BenBish-better-bet-readme-text), a cloud runtime environment for your agents.
